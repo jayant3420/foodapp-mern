@@ -1,6 +1,7 @@
 import React from "react";
 import { useState } from "react";
 
+/*Component to Navigation Bar*/
 const Navigation = ({ navArray, datafilter }) => {
   let BtnClass = "btn-grp-item";
   const [name, setName] = useState("all");
