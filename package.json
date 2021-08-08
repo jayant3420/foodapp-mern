@@ -2,7 +2,7 @@
   "name": "foodstore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jayant3420/github.io/foodapp-mern",
+  "homepage": "https://jayant3420.github.io/foodapp-mern",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
